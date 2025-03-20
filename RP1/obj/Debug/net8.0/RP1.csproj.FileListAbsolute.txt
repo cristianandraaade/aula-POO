@@ -1,0 +1,15 @@
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\bin\Debug\net8.0\RP1.exe
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\bin\Debug\net8.0\RP1.deps.json
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\bin\Debug\net8.0\RP1.runtimeconfig.json
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\bin\Debug\net8.0\RP1.dll
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\bin\Debug\net8.0\RP1.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.AssemblyInfo.cs
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.sourcelink.json
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.dll
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\refint\RP1.dll
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\RP1.genruntimeconfig.cache
+C:\Users\crist\Desktop\Projetos Faculdade\aula-POO\RP1\obj\Debug\net8.0\ref\RP1.dll
